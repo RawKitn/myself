@@ -1,0 +1,629 @@
+/* ##### CSS Icones #####
+ * ##     Homemade     ##
+ * ######################
+ *
+ */
+
+
+/* ######################
+ * #    TECHNOLOGIES    #
+ * ######################
+ */
+
+.apache {
+   display: inline-block;
+   width: 32px;
+   height: 32px;
+   content: url('https://api.iconify.design/logos/apache.svg');
+	 background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.aws {
+	 content: url('https://api.iconify.design/logos/aws.svg');
+	 width: 32px;
+   height: 32px;
+	 background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.azure {
+	 content: url('https://api.iconify.design/logos/microsoft-azure.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.bash {
+	 content: url('https://api.iconify.design/logos/bash.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.centos {
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+	 content: url('https://api.iconify.design/logos/centos-icon.svg');
+}
+
+.centos-logo {
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+	 content: url('https://api.iconify.design/logos/centos.svg');
+}
+
+.certbot {
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+	 content: url('https://api.iconify.design/logos/certbot.svg');
+}
+
+.css3 {
+	 content: url('https://api.iconify.design/logos/css-3.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.curl {
+	 content: url('https://api.iconify.design/logos/curl.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.debian {
+	 content: url('https://api.iconify.design/logos/debian.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.docker {
+	 content: url('https://api.iconify.design/logos/docker-icon.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.docker-logo {
+	 content: url('https://api.iconify.design/logos/docker.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.gcp {
+	 content: url('https://api.iconify.design/logos/google-cloud.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.git {
+	 content: url('https://api.iconify.design/logos/git-icon.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.git-logo {
+	 content: url('https://api.iconify.design/logos/git.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.gitlab {
+	 content: url('https://api.iconify.design/logos/gitlab.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.golang {
+	 content: url('https://api.iconify.design/logos/go.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.grafana {
+	 content: url('https://api.iconify.design/logos/grafana.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.helm {
+	 content: url('https://api.iconify.design/logos/helm.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.html5 {
+	 content: url('https://api.iconify.design/logos/html-5.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.kibana {
+	 content: url('https://api.iconify.design/logos/kibana.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.kubernetes {
+	 content: url('https://api.iconify.design/logos/kubernetes.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.linux {
+	 content: url('https://api.iconify.design/logos/linux-tux.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.mariadb {
+	 content: url('https://api.iconify.design/logos/mariadb-icon.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.mariadb-logo {
+	 content: url('https://api.iconify.design/logos/mariadb.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.microsoft {
+	 content: url('https://api.iconify.design/logos/microsoft-icon.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.mongodb {
+	 content: url('https://api.iconify.design/logos/mongodb-icon.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.mongodb-logo {
+	 content: url('https://api.iconify.design/logos/mongodb.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.mysql {
+	 content: url('https://api.iconify.design/logos/mysql-icon.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.mysql-logo {
+	 content: url('https://api.iconify.design/logos/mysql.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.nginx {
+	 content: url('https://api.iconify.design/logos/nginx.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.onedrive {
+	 content: url('https://api.iconify.design/logos/microsoft-onedrive.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.origin {
+	 content: url('https://api.iconify.design/logos/origin.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.paypal {
+	 content: url('https://api.iconify.design/logos/paypal.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.percona {
+	 content: url('https://api.iconify.design/logos/percona.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.php {
+	 content: url('https://api.iconify.design/logos/php-alt.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.postgresql {
+	 content: url('https://api.iconify.design/logos/postgresql.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.powershell {
+	 content: url('https://api.iconify.design/skill-icons/powershell-light.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.puppet {
+	 content: url('https://api.iconify.design/logos/puppet.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.python {
+	 content: url('https://api.iconify.design/logos/python.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.rancher {
+	 content: url('https://api.iconify.design/logos/rancher-icon.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.rancher-logo {
+   content: url('https://api.iconify.design/logos/rancher.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.redhat {
+	 content: url('https://api.iconify.design/logos/redhat-icon.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.redhat-logo {
+	 content: url('https://api.iconify.design/logos/redhat.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.rockylinux {
+	 content: url('https://api.iconify.design/logos/rocky-linux-icon.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.rockylinux-logo {
+	 content: url('https://api.iconify.design/logos/rocky-linux.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.steam {
+	 content: url('https://api.iconify.design/logos/steam.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.teams {
+   content: url('https://api.iconify.design/logos/microsoft-teams.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.ubuntu {
+   content: url('https://api.iconify.design/logos/ubuntu.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.vim {
+	 content: url('https://api.iconify.design/logos/vim.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.vmware {
+	 content: url(img/vmware.jpg);
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.windows {
+	 content: url('https://api.iconify.design/logos/microsoft-windows-icon.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+/* ##################
+ * #     OTHERS     #
+ * ##################
+ */
+
+
+
+.usermail {
+	 content: url('https://api.iconify.design/ic/outline-contact-mail.svg?color=%23bbb');
+	 width: 24px;
+   height: 24px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.mail {
+   content: url('https://api.iconify.design/ic/outline-mail.svg?color=%23fff');
+   width: 24px;
+   height: 24px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.mail-darker {
+   content: url('https://api.iconify.design/ic/baseline-alternate-email.svg?color=%23bbb');
+   width: 24px;
+   height: 24px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.info {
+	 content: url('https://api.iconify.design/ic/outline-info.svg?color=%23fff');
+	 width: 24px;
+   height: 24px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.stack {
+	 content: url('https://api.iconify.design/ic/round-dehaze.svg?color=%23fff');
+	 width: 24px;
+   height: 24px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.skill {
+	 content: url('https://api.iconify.design/game-icons/skills.svg?color=%23fff');
+	 width: 24px;
+   height: 24px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.ddl {
+	 content: url('https://api.iconify.design/ic/baseline-download.svg?color=%23fff');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.moneybag {
+	 content: url('https://api.iconify.design/twemoji/money-bag.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.musical {
+	 content: url('https://api.iconify.design/twemoji/musical-note.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+
+.lotus {
+	 content: url('https://api.iconify.design/twemoji/lotus.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.pepper {
+	 content: url('https://api.iconify.design/twemoji/hot-pepper.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.hamburger {
+	 content: url('https://api.iconify.design/twemoji/hamburger.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.dice {
+	 content: url('https://api.iconify.design/twemoji/game-die.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.rollercoaster {
+	 content: url('https://api.iconify.design/twemoji/roller-coaster.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.ramen {
+	 content: url('https://api.iconify.design/twemoji/steaming-bowl.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.videogame {
+	 content: url('https://api.iconify.design/twemoji/video-game.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.watermelon {
+	 content: url('https://api.iconify.design/twemoji/watermelon.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.island {
+	 content: url('https://api.iconify.design/twemoji/desert-island.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.catsalem {
+	 content: url('https://api.iconify.design/twemoji/black-cat.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.bento {
+	 content: url('https://api.iconify.design/twemoji/bento-box.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.hiking {
+	 content: url('https://api.iconify.design/material-symbols/hiking-rounded.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.cinema {
+	 content: url('https://api.iconify.design/mdi/cinema.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.youtube {
+	 content: url('https://api.iconify.design/logos/youtube-icon.svg');
+	 width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
+.theater {
+	 content: url('https://api.iconify.design/mdi/theater.svg');
+   width: 32px;
+   height: 32px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+
